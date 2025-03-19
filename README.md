@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F76CE9&width=435&lines=Hello!+My+name+is+Maria!+;I'm+19+years+old;I'm+glad+you+are+here)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=dd6387&width=435&lines=Hello!+My+name+is+Maria!+;I'm+19+years+old;I'm+glad+you+are+here)](https://git.io/typing-svg)
 
 <div align="center">
   <a href = "https://github.com/MariaR1t4">
